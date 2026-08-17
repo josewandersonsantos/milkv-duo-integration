@@ -1,5 +1,14 @@
 # Milk-V Duo CV1800B — Linux ↔ FreeRTOS IPC Demo
 
+![Version](https://img.shields.io/badge/version-v0.0.1-blue)
+![Status](https://img.shields.io/badge/status-in%20progress-yellow)
+[![Platform](https://img.shields.io/badge/Platform-Milk--V%20Duo-blue.svg)](https://milkv.io/duo)
+[![SoC](https://img.shields.io/badge/SoC-CV1800B-orange.svg)](https://milkv.io/duo)
+[![Linux](https://img.shields.io/badge/Linux-5.10-black.svg?logo=linux)](https://www.kernel.org/)
+[![FreeRTOS](https://img.shields.io/badge/FreeRTOS-RTOS-blue.svg)](https://www.freertos.org/)
+[![Buildroot](https://img.shields.io/badge/Buildroot-Embedded%20Linux-green.svg)](https://buildroot.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Experimental embedded Linux project for the **Milk-V Duo (CV1800B)** demonstrating communication between the Linux and FreeRTOS cores using the CVITEK mailbox mechanism.
 
 The initial goal is intentionally simple:
